@@ -50,7 +50,7 @@ This project implements a comprehensive bioinformatics pipeline to classify canc
 
 ---
 
-## SFinal Conclusion
+## Final Conclusion
 
 The project successfully demonstrates that **Architectural Optimization** is more critical than raw model depth in bioinformatics.
 
